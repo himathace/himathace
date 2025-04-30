@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himath demiwka
+- 👋 Hi, I’m @Himath Demiwka
 
 <!---
 himathace/himathace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
