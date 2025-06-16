@@ -3,6 +3,8 @@ Hi 👋 My name is HImath Dewmika
 
 <a href="https://www.github.com/himathace" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/himathace?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himathace&label=Profile%20views&color=0e75b6&style=flat" alt="himathace" /> </p>
+
 
 ### Skills
 
