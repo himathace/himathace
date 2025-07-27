@@ -1,6 +1,7 @@
 <h1 align="center">✨ こんにちは — I'm Himath ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&siz  e=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Console.log('Welcome')+%F0%9F%8E%93;<Code>+%E2%9D%A4+<Passion>+%E2%9D%A4+</Code>" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&siz  e=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&
+    lines=Full-Stack+Developer;Console.log('Welcome')+%F0%9F%8E%93;<Code>+%E2%9D%A4+<Passion>+%E2%9D%A4+</Code>" alt="Typing SVG" />
 </p>
 
 ---
