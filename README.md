@@ -1,6 +1,6 @@
 <h1 align="center">✨ こんにちは — I'm Himath ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;🎓+Lifelong+Learner;%E2%9D%A4+Code+Passion+%E2%9D%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&lines=Welcome;%E2%9D%A4+Code+%E2%9D%A4" alt="Typing SVG" />
 </p>
 
 
@@ -33,15 +33,6 @@
 
 ---
 
-### ⛩️ Aesthetic Mood
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF5N3hkcjAxeWdzdmI2a2Uzd3Y4MDR1ODRzOGV2ZWRzZzRmZmF0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GaV1D5EeqBz7XBpZgA/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="300" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -50,12 +41,6 @@
 </p>
 
 ---
-
-### 💬 Say Hi
-
-- 📫 Reach me: [Email@example.com](himathcode@gmail.com)
-- 🌐 linkedin: [linkedin.com](https://www.linkedin.com/in/himath-dewmika-b44a15342)
-
 
 > “The future belongs to those who believe in the beauty of their dreams.”  🌌
 
