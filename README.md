@@ -53,8 +53,8 @@
 
 ### 💬 Say Hi
 
-- 📫 Reach me: [your.email@example.com](himathcode@gmail.com)
-- 🌐 linkedin: [your-linkedin.com](https://www.linkedin.com/in/himath-dewmika-b44a15342)
+- 📫 Reach me: [Email@example.com](himathcode@gmail.com)
+- 🌐 linkedin: [linkedin.com](https://www.linkedin.com/in/himath-dewmika-b44a15342)
 
 
 > “The future belongs to those who believe in the beauty of their dreams.”  🌌
