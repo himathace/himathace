@@ -1,6 +1,6 @@
 <h1 align="center">✨ こんにちは — I'm Himath ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&lines=Welcome;%E2%9D%A4+Code+%E2%9D%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E66481&center=true&vCenter=true&width=435&lines=Welcome;%E2%9D%A4+%E2%9D%A4+%E2%9D%A4+%E2%9D%A4+%E2%9D%A4" alt="Typing SVG" />
 </p>
 
 
@@ -30,15 +30,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himathace&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himathace&theme=tokyonight" width="400"/>
-</p>
 
 ---
 
