@@ -1,1 +1,1 @@
- 👋 Hi, I’m @himath dewmika
+ ![My GIF](./assets/gif(3).gif)
