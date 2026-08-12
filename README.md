@@ -1,6 +1,6 @@
  # Hi there👋, I'm Himath
-<img src="./assets/gif(3).gif" width="2000" height="400" >
-I'm a **Full Stack Developer** with a passion for building modern, scalable web applications. I primarily work with **Next.js, React, TypeScript, Node.js, and PostgreSQL**, while also exploring different backend technologies and architectures.
+<img src="./assets/gif(3).gif" width="2000" height="290" >
+I'm a Full Stack Developer with a passion for building modern, scalable web applications. I primarily work with Next.js, React, TypeScript, Node.js, and PostgreSQL, while also exploring different backend technologies and architectures.
 
 I'm currently expanding my skills in **AI/ML and Generative AI**, experimenting with **Python, LangChain, LangGraph, RAG, and AI agents** to build intelligent applications that solve real-world problems.
 
